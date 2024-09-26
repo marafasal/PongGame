@@ -96,12 +96,20 @@
       <option name="project" value="LOCAL" />
       <updated>1727364087556</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="effect the movement of the ball and catch by the paddle">
+      <option name="closed" value="true" />
+      <created>1727365352090</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727365352090</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="effect the movement of the ball and catch by the paddle" />
     <MESSAGE value="effect the movement of the ball and catch by the paddle." />
-    <option name="LAST_COMMIT_MESSAGE" value="effect the movement of the ball and catch by the paddle." />
+    <MESSAGE value="effect the movement of the ball and catch by the paddle" />
+    <option name="LAST_COMMIT_MESSAGE" value="effect the movement of the ball and catch by the paddle" />
   </component>
 </project>
